@@ -169,7 +169,7 @@ void excluirPrimeiroElemento()
 
 void excluirUltimoElemento()
 {
-	NO* num = ultimo;
+	NO* aux = ultimo;
 
 	if (ultimo != NULL) 
 	{
